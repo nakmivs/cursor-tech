@@ -1,0 +1,2 @@
+# cursor-tech
+cursor
